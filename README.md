@@ -15,7 +15,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 1. Clona el repositorio:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/rolandolopez36/hardhat-conquer-02-tasklist.git
    cd hardhat-conquer-tasklist
    ```
 
