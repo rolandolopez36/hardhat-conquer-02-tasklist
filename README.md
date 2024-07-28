@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
    ```bash
    git clone https://github.com/rolandolopez36/hardhat-conquer-02-tasklist.git
-   cd hardhat-conquer-tasklist
+   cd hardhat-conquer-02-tasklist
    ```
 
 2. Instala las dependencias del proyecto:
